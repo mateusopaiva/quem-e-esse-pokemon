@@ -1,11 +1,11 @@
-c<h6> Don't speak Portuguese? <a href="">Click here</a> to view this page in English.</h6>
+<h6> Don't speak Portuguese? <a href="https://github.com/mateusopaiva/quem-e-esse-pokemon/blob/main/README-en.md">Click here</a> to view this page in English.</h6>
 
 <h1 align="center">Quem é esse Pokémon?</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge" alt="Status Concluded Badge">
   <br><br>
-  <img height="360em" src="" alt="Quem é esse Pokemon">
+  <img height="360em" src="https://github.com/user-attachments/assets/bb53235b-1d67-49f2-ac28-f00d9417a810" alt="Quem é esse Pokemon">
 </p>
 
 ## 📂 Descrição
@@ -29,12 +29,15 @@ quem-e-esse-pokemon/
 │   ├── pokemon.py           # Arquivo com as funções utilizadas
 │   ├── traducao_tipos.py    # Arquivo com a tradução dos tipos de Pokémon
 │
+├── main.py                  # Arquivo com a estrutura principal
+│
 ├── README-en.md             # Documentação e informações em inglês sobre o projeto
 │
 └── README.md                # Documentação e informações sobre o projeto
 
 ```
 ## 💨 Layout do projeto
+![Pokémon](https://github.com/user-attachments/assets/66276c55-56e2-4a56-90e8-5d29b6b1e10c)
 
 
 ## 📚 Linguagens, dependências e bibliotecas usadas
