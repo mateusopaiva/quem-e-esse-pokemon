@@ -1,15 +1,15 @@
-<h6> Não fala português? <a href="">Clique aqui</a> para visualizar esta página em português.</h6>
+<h6> Não fala inglês? <a href="https://github.com/mateusopaiva/quem-e-esse-pokemon/blob/main/README.md">Clique aqui</a> para ver essa página em português.</h6>
 
 <h1 align="center">Who's That Pokémon?</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge" alt="Status Concluded Badge">
   <br><br>
-  <img height="360em" src="" alt="Who's That Pokemon">
+  <img height="360em" src="https://github.com/user-attachments/assets/7244829c-6fb2-463d-9510-cce6a66d8b66" alt="Who's That Pokemon">
 </p>
 
 ## 📂 Description
-This project is inspired by the famous game "Who's That Pokémon?" and was originally developed in C# by instructor Jeniffer Bittencourt. The proposal was reformulated to Python, with the goal of showcasing the programming language, demonstrating how to consume an API, and exploring the use of libraries like NumPy in a creative and fun way.
+This project is inspired by the famous game "Who's That Pokémon?" and was originally developed in C# by instructor Jeniffer Bittencourt (<a href="https://github.com/jeniblodev/quem-e-esse-pokemon">Original project</a>). The proposal was reformulated to Python, with the goal of showcasing the programming language, demonstrating how to consume an API, and exploring the use of libraries like NumPy in a creative and fun way.
 
 The project was developed during a live coding session with students on Alura's Discord, where we explored the Pokémon API by creating an interactive guessing game. This content is ideal for those who have a basic understanding of programming and want to practice using APIs while creating an interesting project for their portfolio.
 
@@ -35,7 +35,7 @@ whos-that-pokemon/
 ```
 
 ## 💨 Application Layout
-
+![Pokémon](https://github.com/user-attachments/assets/4299bce0-aa3b-43f2-b0bd-344c98e31759)
 
 ## 📚 Languages, dependencies, and libraries used
 <div style="display: inline_block">
