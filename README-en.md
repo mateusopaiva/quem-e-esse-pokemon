@@ -29,6 +29,8 @@ whos-that-pokemon/
 │   ├── pokemon.py           # File with the utilized functions
 │   ├── translation_types.py # File for translating Pokémon types
 │
+├── main.py                  # File with the main structure
+│
 ├── README-en.md             # Documentation and information in English about the project
 │
 └── README.md                # Documentation and information about the project
